@@ -7,7 +7,7 @@ scores = [34, 78, 90, 35, 100, 88] #0~100
 total = 0
 count = 0
 
-min_score = 101
+min_score = 101             #현재 알고 있는 최저 성적  뭐가 나오든 min_score 랑 비교해서 작게 나올 수 있도록
 max_score = -1 
 
 for score in scores:
