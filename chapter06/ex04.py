@@ -1,4 +1,4 @@
-score = [92, 86, 68, 120, 56]
+score = [92, 86, 68, 120, 56, 44]
 for s in score:
     if(s < 0 ) or (s > 100):
         break

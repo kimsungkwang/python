@@ -9,7 +9,7 @@ print("total =", total)
 num = 151
 total = 0
 while num <= 300:
-    total += num
+    total += num 
     num += 2
 
-print("total = ", total)
+print("total =", total)
